@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deploy-eportfolio/static/css/main.fa8a08da.chunk.css",
+    "main.js": "/deploy-eportfolio/static/js/main.fb5f5546.chunk.js",
+    "main.js.map": "/deploy-eportfolio/static/js/main.fb5f5546.chunk.js.map",
+    "runtime~main.js": "/deploy-eportfolio/static/js/runtime~main.34aee3cd.js",
+    "runtime~main.js.map": "/deploy-eportfolio/static/js/runtime~main.34aee3cd.js.map",
+    "static/css/2.04aae6c4.chunk.css": "/deploy-eportfolio/static/css/2.04aae6c4.chunk.css",
+    "static/js/2.6db3c4fd.chunk.js": "/deploy-eportfolio/static/js/2.6db3c4fd.chunk.js",
+    "static/js/2.6db3c4fd.chunk.js.map": "/deploy-eportfolio/static/js/2.6db3c4fd.chunk.js.map",
+    "index.html": "/deploy-eportfolio/index.html",
+    "precache-manifest.778deefeccd14f046580567162ae1be9.js": "/deploy-eportfolio/precache-manifest.778deefeccd14f046580567162ae1be9.js",
+    "service-worker.js": "/deploy-eportfolio/service-worker.js",
+    "static/css/2.04aae6c4.chunk.css.map": "/deploy-eportfolio/static/css/2.04aae6c4.chunk.css.map",
+    "static/css/main.fa8a08da.chunk.css.map": "/deploy-eportfolio/static/css/main.fa8a08da.chunk.css.map",
+    "static/media/Final-Project-1.jpg": "/deploy-eportfolio/static/media/Final-Project-1.d7ec0087.jpg",
+    "static/media/FinalPresentation.pptx": "/deploy-eportfolio/static/media/FinalPresentation.15572c04.pptx",
+    "static/media/FinalProjectPlan.docx": "/deploy-eportfolio/static/media/FinalProjectPlan.fa30327d.docx",
+    "static/media/IMG_3773.JPG": "/deploy-eportfolio/static/media/IMG_3773.e3c3f94b.JPG",
+    "static/media/MichelleAckley_Resume.docx": "/deploy-eportfolio/static/media/MichelleAckley_Resume.028b9b0a.docx",
+    "static/media/carsnow.jpg": "/deploy-eportfolio/static/media/carsnow.94b7e5a9.jpg",
+    "static/media/favefoods.jpg": "/deploy-eportfolio/static/media/favefoods.9e949ba8.jpg"
+  }
+}
